@@ -26,7 +26,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter Project'),
+        title: Text('Tugas Praktikum Pemrograman Mobile'),
       ),
       body: SingleChildScrollView(
         child: Padding(
